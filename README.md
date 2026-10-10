@@ -17,3 +17,6 @@ A square take on Hack Club's Starbie desk pet. XIAO ESP32-C3, 0.96" SSD1306 OLED
 - `BOM.md`: parts list
 
 Built for Hack Club Half Life, Week 1.
+
+## Firmware
+`Firmware/Starbie/Starbie.ino` is the Starbie starter sketch from [SharKingStudios/Starbie](https://github.com/SharKingStudios/Starbie). Squarbie uses the same pin mapping, so it runs unmodified.
