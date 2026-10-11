@@ -18,7 +18,7 @@
 | [DHT11 sensor, bare 4-pin](https://www.amazon.in/Fiftronics-Temperature-Raspberry-3-3V-5-5V-Automation/dp/B0HKJLN3KQ/ref=sr_1_4?crid=2WRQO2YX5JM2Y&dib=eyJ2IjoiMSJ9.W3sIz6TFPbraZ7s4dD11OWeELnOBwP0xfcuPc1Y7-xZkB0zZee3wBEvnoZmkyrbb0EyEW4ZCkhbJP4HFNysqgyBk9d8XqzldLvU3OhI39a9W9kUd1cc0b44oDN4O_PLywGklXw1aZHQCS5KNPYc9Zk2b5j0aoL5DJSQImHkJMHY8UvQfP2T1IYGskgNhFrR04S2r27bLM9b8BFhNvzJK8XCm1SbPp6uYH_x8GaYILZYSXvcs_axmaAmRCxiu7JWyCAaKF8Z5xc0kLT9tlpwRBBsc9izqdrzGrjgALZI3LaA.YvzPoOzTmELjsXaiWUSPwv3qBdubsJIY04sVZiy7-0U&dib_tag=se&keywords=DHT11+4+pin+sensor&qid=1791702581&sprefix=%2Caps%2C324&sr=8-4) | Temperature and humidity | 1 | $1.51 | $1.51 | [Amazon.in](https://www.amazon.in/Fiftronics-Temperature-Raspberry-3-3V-5-5V-Automation/dp/B0HKJLN3KQ/ref=sr_1_4?crid=2WRQO2YX5JM2Y&dib=eyJ2IjoiMSJ9.W3sIz6TFPbraZ7s4dD11OWeELnOBwP0xfcuPc1Y7-xZkB0zZee3wBEvnoZmkyrbb0EyEW4ZCkhbJP4HFNysqgyBk9d8XqzldLvU3OhI39a9W9kUd1cc0b44oDN4O_PLywGklXw1aZHQCS5KNPYc9Zk2b5j0aoL5DJSQImHkJMHY8UvQfP2T1IYGskgNhFrR04S2r27bLM9b8BFhNvzJK8XCm1SbPp6uYH_x8GaYILZYSXvcs_axmaAmRCxiu7JWyCAaKF8Z5xc0kLT9tlpwRBBsc9izqdrzGrjgALZI3LaA.YvzPoOzTmELjsXaiWUSPwv3qBdubsJIY04sVZiy7-0U&dib_tag=se&keywords=DHT11+4+pin+sensor&qid=1791702581&sprefix=%2Caps%2C324&sr=8-4) |
 | [Squarbie PCB, 2-layer FR-4, 5 pcs](https://jlcpcb.com) | The board itself | 1 | $4.00 | $4.00 | [JLCPCB](https://jlcpcb.com) |
 | **Parts subtotal** | — | — | — | **$18.38** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$18.38** | — |
+| **Tax & shipping** | — | — | — | **$9.75** | — |
+| **Total** | — | — | — | **$28.13** | — |
 
-$11.62 left of the tier's funding.
+$1.87 left of the tier's funding.
